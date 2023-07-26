@@ -14,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -66,16 +65,6 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 - **[Work Portfolio section - Project description]**
 - **[About Section - About Myself]**
 - **[Contact-me-Section - Contact-Form]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
-
-> Added a link to my deployed project.
-
- [Live Demo Link](https://github.com/siddghosh108/Contact-Form-Validation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
